@@ -5,8 +5,10 @@
 
 #### Requirements
 
-ampligraph version 1.4.0
+* ampligraph version 1.4.0
+* tensorflow version 1.15.0
+* sckit-learn version 0.24.2
+* numpy version 1.20.3
+* imbalanced-learn version 0.8.0
 
-tensorflow version 1.15.0
 
-sckit-learn version 0.24.2
